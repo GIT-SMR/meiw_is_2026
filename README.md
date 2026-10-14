@@ -1,4 +1,4 @@
-# meow_is_2026
+# MEIW - Integração de Sistemas 2026
 
 ## Preparação do ambiente Git/GitHub
 
@@ -11,7 +11,7 @@
 
 ## Controlo de versões
 
-O controlo de versões permite acompanhar a evolução dos ficheiros e das soluções desenvolvidas nesta UC.\
-Cada commit regista uma etapa do trabalho e, com uma mensagem clara, ajuda a perceber o que foi alterado e porquê.\
+O controlo de versões permite acompanhar a evolução dos ficheiros e das soluções desenvolvidas.\
+Cada "commit" regista uma etapa do trabalho e, com uma mensagem clara, ajuda a perceber o que foi alterado e porquê.\
 O histórico permite comparar versões e recuperar estados anteriores quando necessário.\
-Assim, consigo documentar o percurso e retomar o trabalho com maior facilidade.
+Assim, consegue-se documentar o percurso e retomar o trabalho com maior facilidade.
